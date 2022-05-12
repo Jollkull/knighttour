@@ -18,7 +18,7 @@ int Menu::ChooseDestiny()
     return choice;
 }
 
-void Menu::EnterPositions(int& row, int& col)
+void Menu::EnterPositions(int& row, int& col)//hello
 { 
     std::cout << "\nEnter positions:";
     do
